@@ -1,0 +1,36 @@
+.q{
+	background-color: orange;
+	min-height: 100px;
+	display: block;
+	min-width: 1499px;
+}
+.w{
+	background-color: blue;
+	min-width: 300px;
+	min-height: 500px;
+	display: inline-block;
+}
+.e{
+	background-color: yellow;
+	min-height: 500px;
+	min-width: 1199px;
+	display: inline-block;
+}
+.r{
+	background-color: orange;
+	margin: 20px 950px 10px 20px;
+	min-width: 200px;
+	min-height: 70px;
+}
+.t{
+	background-color: red;
+	margin: 20px 950px 10px 20px;
+	min-width: 200px;
+	min-height: 70px;
+}
+.y{
+	background-color: green;
+	min-height: 100px;
+	display: block;
+	min-width: 1499px;
+}
